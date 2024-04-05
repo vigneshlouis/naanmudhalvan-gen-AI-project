@@ -9,13 +9,7 @@ Preprocessing of raw text data for optimal input to the model.
 Definition of model architecture, training, and evaluation of text generation quality.
 Adaptable and scalable model suitable for various text generation tasks.
 Contribution to advancing research in text generation within NLP.
-Installation
-
-
-arduino
-Copy code
-cd text-generation-bidirectional-lstm
-Install the required dependencies:
+Installation:
 
 Copy code
 pip install tensorflow keras
