@@ -10,12 +10,7 @@ Definition of model architecture, training, and evaluation of text generation qu
 Adaptable and scalable model suitable for various text generation tasks.
 Contribution to advancing research in text generation within NLP.
 Installation
-Clone the repository to your local machine:
 
-bash
-Copy code
-git clone https://github.com/yourusername/text-generation-bidirectional-lstm.git
-Navigate to the project directory:
 
 arduino
 Copy code
