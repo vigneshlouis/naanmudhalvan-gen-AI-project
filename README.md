@@ -26,6 +26,9 @@ Follow the prompts to generate text based on your input.
 
 Results
 The project demonstrates successful text generation using the Bidirectional LSTM model. The generated text exhibits coherence and relevance, capturing long-term dependencies in the input data. Users have provided positive feedback on the quality of the generated text. Performance has been validated through quantitative evaluation metrics, highlighting the model's effectiveness in various text generation tasks.
+Demo Video
+[Link to Demo Video](https://drive.google.com/file/d/1MwkdUQFYJkExWCyYiHTO6xeXuv3QTNwx/view?usp=drivesdk)
 
+Future Work
 Future Work
 Future iterations of the project could explore enhancements to the model architecture, such as incorporating attention mechanisms or transformer-based approaches for improved context understanding. Additionally, expanding the dataset and experimenting with different hyperparameters could further enhance the model's performance and applicability across different domains.
